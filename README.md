@@ -2,7 +2,7 @@
 
 [![build iso](https://github.com/billyeatcookies/bill/actions/workflows/docker-image.yml/badge.svg)](https://github.com/billyeatcookies/bill/actions/workflows/docker-image.yml) ![issues open](https://img.shields.io/github/issues/billyeatcookies/bill) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/billyeatcookies/bill)
 
-BILL is a x64 operating system kernel program under heavy development
+This is the legacy x64 kernel for BILL OS
 
 ![image](https://user-images.githubusercontent.com/70792552/160350152-623b5f75-00d8-4493-bf5c-11498d8c82ad.png)
 
